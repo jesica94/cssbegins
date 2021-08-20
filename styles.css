@@ -1,0 +1,15 @@
+.flex-container{
+    background-color: tomato;
+    padding: .5em, 0;
+    display: flex;
+}
+
+.flex-item{
+    width: 30px;
+    height: 30px;
+    margin: .5em;
+    line-height: 30px;
+    color: aliceblue;
+    text-align: center;
+    background-color: palevioletred;
+}
